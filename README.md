@@ -46,20 +46,19 @@ Can work with these tools, know enough to put together some solutions.
 [![OpenCV](https://img.shields.io/badge/OpenCV-695AFF?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org/)
 
-**\*\*Learning in Progress\*\*** :books: :point_right: :desktop_computer:
-
-Got the basic and I'm working slow and steady on learning the advanced concepts
+Got the basic and I'm working slow and steady on learning the advanced concepts :books: :point_right: :desktop_computer:
 
 &nbsp;
 
-## Other Interests
+## :brain: Other Interests :sa:
 [![Blender](https://img.shields.io/badge/Blender-002D79?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Cee](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
 
-AKA things that I'm not good at, but won't give up
+AKA things that I'm :shit: at, but won't give up :shrug:
 
 &nbsp;
+
 
 <!--
 **otavio-f/otavio-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
