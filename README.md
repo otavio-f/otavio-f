@@ -1,6 +1,4 @@
-# Otavio Ferreira
-
-Hello, I'm Otavio Ferreira, a Computer Science graduate student on UEPB
+# Hello, I'm Otavio Ferreira, a Computer Science graduate student on UEPB
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/otavio-f)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-ferreira-480aa3191)
@@ -55,22 +53,10 @@ Got the basic and I'm working slow and steady on learning the advanced concepts 
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Cee](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
 
+__and learning other languages :fr: :jp: :argentina: :brazil: :us:__
+
 AKA things that I'm :shit: at, but won't give up :shrug:
 
 &nbsp;
 
-
-<!--
-**otavio-f/otavio-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_"a" - :smiley:_
