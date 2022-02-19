@@ -18,7 +18,7 @@ In these languages I know the basic and some advanced concepts, development proc
 
 &nbsp;
 
-## :hammer_and_wrench: Swissknife :toolbox:
+## :hammer_and_wrench: Swiss knife :toolbox:
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 [![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/docs/Web/Javascript)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
@@ -52,7 +52,6 @@ Got the basic and I'm working slow and steady on learning the advanced concepts 
 [![Blender](https://img.shields.io/badge/Blender-002D79?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Cee](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
-
 __and learning other languages :fr: :jp: :argentina: :brazil: :us:__
 
 AKA things that I'm :shit: at, but won't give up :shrug:
