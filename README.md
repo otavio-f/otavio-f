@@ -3,6 +3,7 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/otavio-f)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-ferreira-480aa3191)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:otavioferreira671@gmail.com)
+[![GDev](https://img.shields.io/badge/Google%20Badges-white?style=flat-square&logo=googleoptimize&logoColor=red)](https://g.dev/otavioc)
 
 &nbsp;
 
