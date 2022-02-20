@@ -1,3 +1,9 @@
+<!--
+Badge templates: https://github.com/iuricode/README-template/blob/main/badges/badges.md
+Logo for badges: https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
+Emoji list: https://github.com/ikatyang/emoji-cheat-sheet
+-->
+
 # Hello, I'm Otavio Ferreira, a Computer Science graduate student on UEPB
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/otavio-f)
