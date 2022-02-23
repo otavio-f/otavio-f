@@ -17,11 +17,11 @@ Emoji list: https://github.com/ikatyang/emoji-cheat-sheet
 
 ## :gear: I can code in :gear:
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![C-Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
-In these languages I know the basic and some advanced concepts, development process, debugging options and core tools.
+I'm most familiar with Python, but know the basic and some advanced concepts, development process, debugging options and core tools.
 
 &nbsp;
 
@@ -37,7 +37,7 @@ In these languages I know the basic and some advanced concepts, development proc
 [![DotNet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://docs.microsoft.com/dotnet/)
 [![Junit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 
-Can work with these tools, know enough to put together some solutions.
+Can work with these and put together some basic solutions.
 
 &nbsp;
 
@@ -59,7 +59,7 @@ Got the basic and I'm working slow and steady on learning the advanced concepts 
 [![Blender](https://img.shields.io/badge/Blender-002D79?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
 [![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 [![Cee](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
-__and learning other languages :fr: :jp: :argentina: :brazil: :us:__
+__and learning other languages :brazil: :us: :jp: :fr: :argentina:__
 
 AKA things that I'm :shit: at, but won't give up :shrug:
 
