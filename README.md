@@ -6,6 +6,10 @@ Emoji list: https://github.com/ikatyang/emoji-cheat-sheet
 
 # Hello, I'm Otavio Ferreira, a Computer Science graduate student on UEPB
 
+![otavio-f's Stats](https://github-readme-stats.vercel.app/api?username=otavio-f&theme=default&show_icons=true&hide_border=false&count_private=false)
+
+![otavio-f's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-f&theme=default&show_icons=true&hide_border=false&layout=compact)
+
 ## My links
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/otavio-f)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-ferreira-480aa3191)
@@ -64,6 +68,4 @@ AKA things that I'm :shit: at, but won't give up :shrug:
 
 &nbsp;
 
-**In construction**
-
-_"a" - :smiley:_
+**Under construction**
